@@ -22,4 +22,4 @@ The flames of fire rage uncontrollably, consuming everything in their path. The 
 ### Air - Stillness in Turbulence
 The winds that once carried whispers of peace now blow with confusion and discord. The element of Air, known for its freedom and clarity, now struggles to find its direction amidst the chaos. Toph has become an air bender! Please restore balance by making Aang an air bender!
 
----
+-------------------
