@@ -6,9 +6,9 @@ In the world of Avatar: The Last Airbender, harmony between the four elements - 
 
 ## The Imbalance:
 
-![Water](pics/zuko/zuko-waterbender.png)
-### Water - Frozen in Conflict
-The once tranquil waters have frozen over, trapped in a state of conflict and turmoil. The flow of life has been hindered, and the balance of the element has been disrupted. Zuko has now become a water bender! Please restore balance by making Katara a water bender!
+![Water](pics/katara/katara-waterbender.webp)
+### Water - Tranquil Serenity
+The once frozen waters have thawed, flowing freely once again. Conflict has dissipated, and the waters reflect the calmness that has returned to the element of Water.
 
 ![Earth](pics/aang/aang-earthbender.png)
 ### Earth - Shattered Foundations
