@@ -10,9 +10,10 @@ In the world of Avatar: The Last Airbender, harmony between the four elements - 
 ### Water - Tranquil Serenity
 The once frozen waters have thawed, flowing freely once again. Conflict has dissipated, and the waters reflect the calmness that has returned to the element of Water.
 
-![Earth](pics/aang/aang-earthbender.png)
-### Earth - Shattered Foundations
-The solid foundations of the earth have been shattered, leaving the land scarred and unstable. The ground trembles with unrest, echoing the imbalance that plagues the element of Earth. Aang has now become an earth bender! Please restore balance by making Toph an earth bender!
+![Earth](pics/toph/toph-earthbender.png)
+### Earth - Solid Unity
+The shattered foundations of the earth have been mended, restoring strength and stability to the land. The scars of unrest have healed, and the element of Earth stands firm and united once more.
+
 
 ![Fire](pics/katara/katara-firebender.png)
 ### Fire - Raging Inferno
