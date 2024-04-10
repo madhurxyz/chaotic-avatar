@@ -15,9 +15,10 @@ The once frozen waters have thawed, flowing freely once again. Conflict has diss
 The shattered foundations of the earth have been mended, restoring strength and stability to the land. The scars of unrest have healed, and the element of Earth stands firm and united once more.
 
 
-![Fire](pics/katara/katara-firebender.png)
-### Fire - Raging Inferno
-The flames of fire rage uncontrollably, consuming everything in their path. The once warm and comforting element has turned into a destructive force, threatening to engulf the world in chaos. Katara has become a fire bender! Please restore balance by making Zuko a fire bender!
+![Fire](pics/zuko/zuko-firebender.webp)
+### Fire - Controlled Vigor
+The raging inferno has been tamed, its flames now burning with purpose and control. Instead of destruction, the element of Fire radiates warmth and light, bringing balance without chaos.
+
 
 ![Air](pics/toph/toph-airbender.png)
 ### Air - Stillness in Turbulence
